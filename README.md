@@ -23,7 +23,9 @@
 9) 정렬된 값을 토대로 area, perimeter값의 차이를 이용하여 동전을 금액별로 구분
 	- 10원짜리의 경우, 과거의 10 원짜리와 현재의 10원짜리의 크기가 다르므로 이는 sub_num변수로 구분하여 계산
   
-#### PDF File :
+#### PDF File : 
+1) [Computer_Vision_labeling1.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588055/Computer_Vision_labeling1.pdf)
+2) [ComputerVision_labeling1_report.pdf(https://github.com/YouMinJung/Computer_Vision/files/2588053/ComputerVision_labeling1_report.pdf)
 
 <br><br>
 
@@ -35,4 +37,5 @@
 - Labeling 이외의 Image Preprocessing 과정 포함 (Rotation, Remove backgroung)
 
 #### PDF File :
-
+1) [ComputerVision_labeling2_report.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588054/ComputerVision_labeling2_report.pdf)
+2) [Computer_Vision_Labeling2.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588056/Computer_Vision_Labeling2.pdf)
