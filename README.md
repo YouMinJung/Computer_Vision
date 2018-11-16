@@ -25,7 +25,7 @@
   
 #### PDF File : 
 1) [Computer_Vision_labeling1.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588055/Computer_Vision_labeling1.pdf)
-2) [ComputerVision_labeling1_report.pdf(https://github.com/YouMinJung/Computer_Vision/files/2588053/ComputerVision_labeling1_report.pdf)
+2) [ComputerVision_labeling1_report.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588053/ComputerVision_labeling1_report.pdf)
 
 <br><br>
 
