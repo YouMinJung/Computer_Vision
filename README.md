@@ -37,5 +37,5 @@
 - Labeling 이외의 Image Preprocessing 과정 포함 (Rotation, Remove backgroung)
 
 #### PDF File :
-1) [ComputerVision_labeling2_report.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588054/ComputerVision_labeling2_report.pdf)
-2) [Computer_Vision_Labeling2.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588056/Computer_Vision_Labeling2.pdf)
+1) [Computer_Vision_Labeling2.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588056/Computer_Vision_Labeling2.pdf)
+2) [ComputerVision_labeling2_report.pdf](https://github.com/YouMinJung/Computer_Vision/files/2588054/ComputerVision_labeling2_report.pdf)
